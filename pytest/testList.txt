@@ -1,0 +1,11 @@
+test_file_path
+tests/test_addition.py
+tests/test_subtraction.py
+tests/test_multiplication.py
+tests/test_division.py
+tests/test_modulus.py
+tests/test_exponentiation.py
+tests/test_square_root.py
+tests/test_logarithm.py
+tests/test_trigonometry.py
+tests/test_factorial.py
